@@ -1,7 +1,6 @@
 # Data_Analysis_Final_Project
 University of the City of Buenos Aires
 
-
 # Data Analysis Final Project - EasyJet Market Expansion Analysis
 
 ## 📋 Purpose of the Project
@@ -23,7 +22,8 @@ The goal of this project was to assist EasyJet, a multinational low-cost airline
 - **Transformation:** Combined datasets from 2019–2023, applied filtering for regular flights, and focused on flights with passenger data > 0.
 
 ### **Data Visualization**
-- **Tableau Dashboard:** Interactive dashboard provided insights into demand trends, peak periods, and province-level traffic, enabling strategic decision-making.
+- **Tableau Dashboard:** Interactive dashboard provided insights into demand trends, peak periods, and province-level traffic, enabling strategic decision-making. You can view the dashboard here:  
+  [Tableau Dashboard - Vuelos Análisis](https://public.tableau.com/app/profile/micaela.dorado/viz/Vuelos_17311104748040/Anlisisdevuelos?publish=yes)
 
 ### **Programming and Libraries**
 - **Python (Pandas):** For data preprocessing and transformation.
@@ -37,11 +37,16 @@ The goal of this project was to assist EasyJet, a multinational low-cost airline
 ## 📈 Recommendations for EasyJet
 1. **Increase Flight Frequency:** Focus on high-demand routes and peak times.
 2. **Dynamic Pricing:** Seasonal adjustments to maximize profitability.
-3. **Marketing Campaigns:** Targeted advertising in underrepresented but high-potential regions.
-4. **Ongoing Analysis:** Continuous monitoring to adapt to evolving market trends.
+3. **Marketing Campaigns:** Targeted advertising in regions of high potential growth.
 
-## 📂 Data Source
-The dataset was sourced from the official [Datos.gob.ar](https://www.datos.gob.ar), providing detailed records on domestic flights in Argentina.
+---
+
+## 🗂️ Large Files Storage
+Due to GitHub's file size limitations, we encountered issues pushing large files to the repository. Therefore, the large files used in this project have been uploaded to Google Drive for easy access.
+
+You can download the large files from the following link:
+
+[Google Drive - Project Files](https://drive.google.com/drive/folders/1CF1FKISByTZDMYX3YNYeyY6xWZ7V1tN_?usp=drive_link)
 
 ---
 
@@ -57,3 +62,4 @@ This project was developed by Group 3 - Aprodatos:
 ---
 
 Feel free to explore the project and dashboard! Your feedback is welcome.
+
